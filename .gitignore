@@ -1,0 +1,14 @@
+# Environnement Python
+.venv/
+venv/
+__pycache__/
+.ipynb_checkpoints/
+
+# Données (téléchargeables sur data.gouv.fr, voir data/README.md)
+data/*
+!data/README.md
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+desktop.ini
