@@ -109,4 +109,4 @@ Ministère de l'Intérieur / ONISR, *Bases de données annuelles des accidents c
 
 ## 👩‍💻 Auteure
 
-**Fatima-Zahra** – Data Analyst · [GitHub](https://github.com/Fatima-Zahra37)
+**Fatima-Zahra FRINDOU** – Data Analyst · [GitHub](https://github.com/Fatima-Zahra37)
